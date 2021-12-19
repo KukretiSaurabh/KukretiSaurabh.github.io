@@ -8,4 +8,6 @@
 - this is my first project where I am going to calculate the House Prices
 - there are going to be certain statistical parameters
 
-### Project 2: 
+![](/images/graph-5.jpg)
+
+### Project 2: Calculator Prices Calculator
