@@ -8,6 +8,6 @@
 - this is my first project where I am going to calculate the House Prices
 - there are going to be certain statistical parameters
 
-![](/images/git image.jpg)
+![](/images/git-image.jpg)
 
 ### Project 2: Calculator Prices Calculator
